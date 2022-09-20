@@ -1,6 +1,8 @@
 # Методы программирования 2: Множества на основе битовых полей
 
+
 [![Coverage Status](https://coveralls.io/repos/github/bkmzbmk/mp2-lab1-set/badge.svg?branch=master)](https://coveralls.io/github/bkmzbmk/mp2-lab1-set?branch=master)
+
 
 
 <!-- TODO
